@@ -1,5 +1,3 @@
-mod one;
-mod two;
 fn main() {
   let mut ip = "192.168.15.200";
   let mut cidr = "192.168.15.0/24";
